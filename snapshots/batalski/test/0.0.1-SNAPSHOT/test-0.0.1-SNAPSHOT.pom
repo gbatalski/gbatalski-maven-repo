@@ -8,11 +8,11 @@
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
-			<url>https://github.com/gbatalski/gbatalski-maven-repo/raw/master/releases</url>
+			<url>https://raw.github.com/gbatalski/gbatalski-maven-repo/master/releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot-repo</id>
-			<url>https://github.com//gbatalski/gbatalski-maven-repo/raw/master/snapshots</url>
+			<url>https://raw.github.com//gbatalski/gbatalski-maven-repo/master/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 
