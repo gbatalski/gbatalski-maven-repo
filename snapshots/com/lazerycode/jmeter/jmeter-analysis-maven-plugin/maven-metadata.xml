@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lazerycode.jmeter</groupId>
+  <artifactId>jmeter-analysis-maven-plugin</artifactId>
+  <versioning>
+    <latest>1.0.2-SNAPSHOT</latest>
+    <versions>
+      <version>1.0.2-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20120916082756</lastUpdated>
+  </versioning>
+</metadata>
